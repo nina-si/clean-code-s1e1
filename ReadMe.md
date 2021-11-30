@@ -11,3 +11,6 @@
     - Редактирование элемента из списка "COMPLETED"
     - Установка элемента в статус незавершенного и перенос в список "TODO" через checkbox
     - Анимация на кнопке удаления
+
+# Описание задания:
+<a href="https://github.com/rolling-scopes-school/tasks/blob/master/stage2/modules/clean-code/clean-code-s1e1.md">Clean Code</a>
