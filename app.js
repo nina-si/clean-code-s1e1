@@ -104,7 +104,7 @@ var editTask=function(){
 
     //toggle .edit-mode on the parent.
     listItem.classList.toggle("edit-mode");
-    label.classList.toggle("edit-label");
+    label.classList.toggle("label-edit");
 };
 
 
